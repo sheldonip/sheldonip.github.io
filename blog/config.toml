@@ -1,0 +1,2 @@
+baseURL = 'https://sheldonip.github.io'
+theme = 'hugo-theme-stack'

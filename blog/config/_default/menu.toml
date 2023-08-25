@@ -1,0 +1,15 @@
+[[social]]
+identifier = "github"
+name = "GitHub"
+url = "https://github.com/sheldonip/"
+
+[social.params]
+icon = "brand-github"
+
+[[social]]
+identifier = "blog"
+name = "Blog"
+url = "https://sheldonip.github.io/"
+
+[social.params]
+icon = "link"

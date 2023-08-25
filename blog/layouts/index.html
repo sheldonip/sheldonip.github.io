@@ -1,0 +1,25 @@
+{{ define "main" }}
+    {{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+    {{ $notHidden := where .Site.RegularPages "Params.hidden" "!=" true }}
+    {{ $filtered := ($pages | intersect $notHidden) }}
+    {{ $pag := .Paginate ($filtered) }}
+    {{ with $pag.Pages }}
+        <section class="article-list">
+            {{ range $index, $element := $pag.Pages }}
+                {{ partial "article-list/default" . }}
+            {{ end }}
+        </section>
+    {{ else }}
+        <div class="not-found-card">
+            <h1 class="article-title">Not Found</h1>
+            <h2 class="article-subtitle">Empty space</h2>
+        </div>
+    {{ end }}
+
+    {{- partial "pagination.html" . -}}
+    {{- partial "footer/footer" . -}}
+{{ end }}
+
+{{ define "right-sidebar" }}
+    {{ partial "sidebar/right.html" (dict "Context" . "Scope" "homepage") }}
+{{ end }}

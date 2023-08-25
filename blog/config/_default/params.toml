@@ -1,0 +1,32 @@
+# Pages placed under these sections will be shown on homepage and archive page.
+mainSections = ["posts"]
+
+rssFullContent = false
+
+[sidebar]
+subtitle = "Sharing insights from a software engineer"
+
+[article]
+math = false
+readingTime = true
+
+[footer]
+since = 2023
+customText = ""
+
+[dateFormat]
+published = "02 Jan 2006"
+lastUpdated = "02 Jan 2006 15:04 UTC"
+
+## Widgets
+[[widgets.homepage]]
+type = "archives"
+
+[widgets.homepage.params]
+limit = 5
+
+[[widgets.page]]
+type = "archives"
+
+[widgets.page.params]
+limit = 5
