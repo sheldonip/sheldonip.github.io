@@ -95,3 +95,8 @@ Though, I would prefer annotation based configuration for queries to improve cod
 
 - https://ithelp.ithome.com.tw/m/articles/10272581
 - https://mybatis.org/mybatis-3/sqlmap-xml.html
+
+## Credits
+
+Cover photo by [Gauravdeep Singh Bansal](https://unsplash.com/@gauravdsb?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/photo-of-birds-flying-up-in-the-skiy-caC13DIDe9E?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+ 
