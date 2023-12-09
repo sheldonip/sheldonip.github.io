@@ -17,3 +17,10 @@ defaultContentLanguage = 'en'
     languageDirection = 'ltr'
     languageName = '中文 (香港)'
     weight = 2
+
+[sitemap]
+  changeFreq = ''
+  filename = 'sitemap.xml'
+  priority = -1
+
+[Taxonomies]
