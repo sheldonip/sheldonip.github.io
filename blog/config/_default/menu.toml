@@ -13,3 +13,11 @@ url = "https://sheldonip.github.io/"
 
 [social.params]
 icon = "link"
+
+[[social]]
+identifier = "x"
+name = "X"
+url = "https://twitter.com/sheldonip/"
+
+[social.params]
+icon = "brand-x"
