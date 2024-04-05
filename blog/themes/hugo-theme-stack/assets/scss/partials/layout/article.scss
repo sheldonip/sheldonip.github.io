@@ -204,6 +204,7 @@
     font-size: var(--article-font-size);
     padding: 0 var(--card-padding);
     line-height: var(--article-line-height);
+    word-spacing: 1px;
 
     & > p {
         margin: 1.5em 0;
@@ -262,6 +263,7 @@
         padding: 2px 4px;
         border-radius: var(--tag-border-radius);
         font-family: var(--code-font-family);
+        font-size: 0.9em;
     }
 
     a,
