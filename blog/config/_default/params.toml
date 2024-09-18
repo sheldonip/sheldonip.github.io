@@ -4,7 +4,7 @@ mainSections = ["posts"]
 rssFullContent = false
 
 [sidebar]
-subtitle = "Sharing thoughts from a software engineer"
+subtitle = "Sharing a software engineer's thoughts"
 
 [article]
 math = false
