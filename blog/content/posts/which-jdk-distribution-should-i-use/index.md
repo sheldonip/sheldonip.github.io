@@ -1,5 +1,5 @@
 ---
-title: "Which JDK distribution should I use?"
+title: "Which JDK Distribution Should I Use?"
 date: 2024-09-18T23:10:00Z
 draft: false
 image: cover.jpg
