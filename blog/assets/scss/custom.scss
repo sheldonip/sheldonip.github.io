@@ -1,3 +1,23 @@
-.container .right-sidebar{
+.container .right-sidebar {
     max-width: 20%;
+}
+
+.social-menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    gap: 10px
+}
+
+.menu .menu-bottom-section {
+    margin-top: auto;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+#i18n-switch {
+    display: none;
 }

@@ -38,7 +38,7 @@
     </header>
 
     {{- with .Site.Menus.social -}}
-        <ol class="social-menu">
+        <ul class="social-menu">
             {{ range . }}
                 <li>
                     <a 
@@ -54,7 +54,7 @@
                     </a>
                 </li>
             {{ end }}
-        </ol>
+        </ul>
     {{- end -}}
 
     <ol class="menu" id="main-menu">

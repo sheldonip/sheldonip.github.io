@@ -1,6 +1,6 @@
 services:
   server:
-      image: klakegg/hugo:0.111.3-ext-alpine
+      image: hugomods/hugo:base
       command: server -D --poll 700ms -t hugo-theme-stack
       volumes:
         - "./blog:/src"
