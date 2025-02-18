@@ -4,7 +4,7 @@ This is a repository for my personal blog, powered by Hugo to host in GitHub Pag
 ## Quickstart
 To start this site on local machine:
 ```
-docker-compose up
+docker compose up
 ```
 
 To terminate the site, just kill the process.

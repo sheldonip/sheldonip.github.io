@@ -1,5 +1,5 @@
 languageCode = "en"
-paginate = 5
+pagination.pagerSize = 5
 title = "Sheldon Ip"
 enableRobotsTXT = true
 defaultContentLanguage = 'en'
