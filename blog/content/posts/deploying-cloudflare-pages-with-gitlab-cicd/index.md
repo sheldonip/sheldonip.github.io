@@ -73,4 +73,4 @@ We have walked through setting up an automation for deploying static websites. Y
 
 ## Credits
 
-Cover photo by [The Chaffins](https://unsplash.com/@thechaffins?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](hhttps://unsplash.com/photos/a-view-of-a-mountain-covered-in-clouds-Vd_s71-WVcA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) 
+Cover photo by [The Chaffins](https://unsplash.com/@thechaffins?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-view-of-a-mountain-covered-in-clouds-Vd_s71-WVcA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) 
