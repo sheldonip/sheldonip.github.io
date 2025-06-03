@@ -30,7 +30,7 @@ We follow the setup and run in the terminal:
 go run fan-control.go
 ```
 
-The fan should be up when the temperature reaches `upperTemperatureThreshold` and stop at the temperature defined in `lowerTemperatureThreshold`. To executethe script in background, please follow the instruction in the readme file.
+The fan should be up when the temperature reaches `upperTemperatureThreshold` and stop at the temperature defined in `lowerTemperatureThreshold`. To execute the script in background, please follow the instruction in the readme file.
 
 ## Wrapping up
 
