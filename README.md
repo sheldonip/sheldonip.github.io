@@ -1,3 +1,5 @@
+[![Deploy](https://github.com/sheldonip/sheldonip.github.io/actions/workflows/hugo.yaml/badge.svg)](https://github.com/sheldonip/sheldonip.github.io/actions/workflows/hugo.yaml)
+
 # Personal Blog
 This is a repository for my personal blog, powered by Hugo to host in GitHub Pages.
 
