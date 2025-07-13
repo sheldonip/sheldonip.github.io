@@ -1,6 +1,6 @@
 services:
   server:
-      image: hugomods/hugo:base-0.147.7
+      image: hugomods/hugo:base-0.148.1
       command: server -D --poll 700ms -t hugo-theme-stack
       volumes:
         - "./blog:/src"

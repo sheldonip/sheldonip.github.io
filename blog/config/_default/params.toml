@@ -4,7 +4,7 @@ mainSections = ["posts"]
 rssFullContent = false
 
 [sidebar]
-subtitle = "Sharing a software engineer's thoughts."
+subtitle = "Sharing a software engineer's thoughts. Owner of [Meow Food DB](https://www.meowfooddb.com?utm_source=githubio). Opinions are my own."
 
 [article]
 math = false
