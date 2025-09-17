@@ -21,3 +21,11 @@ url = "https://twitter.com/sheldonip/"
 
 [social.params]
 icon = "brand-x"
+
+[[social]]
+identifier = "linkedin"
+name = "Linkedin"
+url = "https://www.linkedin.com/in/sheldonip/"
+
+[social.params]
+icon = "brand-linkedin"
