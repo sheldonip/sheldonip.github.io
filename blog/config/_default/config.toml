@@ -1,4 +1,4 @@
-languageCode = "en"
+locale = "en"
 pagination.pagerSize = 5
 title = "Sheldon Ip"
 enableRobotsTXT = true
@@ -7,15 +7,15 @@ defaultContentLanguage = 'en'
 [languages]
   [languages.en]
     disabled = false
-    languageCode = 'en'
-    languageDirection = 'ltr'
-    languageName = 'English'
+    locale = 'en'
+    direction = 'ltr'
+    label = 'English'
     weight = 1
   [languages.zh-hk]
     disabled = true
-    languageCode = 'zh-hk'
-    languageDirection = 'ltr'
-    languageName = '中文 (香港)'
+    locale = 'zh-hk'
+    direction = 'ltr'
+    label = '中文 (香港)'
     weight = 2
 
 [sitemap]
